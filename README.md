@@ -4,7 +4,7 @@ Hi there 👋 Thank you for having a look at my profile
 
 I am a super enthusiastic JavaScript and .NET developer who loves solving difficult technical issues.
 JS/TS, React, Angular, Node.js and ASP.NET Core are my specialists.
-
+![Pull Request Master](https://img.shields.io/badge/Pull%20Request%20Master-100%2B%20PRs-success)
 Here is a list of what I've worked with:
 
 ## TECHNOLOGY SUMMARY
