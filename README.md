@@ -49,10 +49,6 @@ Development methodologies
 - OOP, SOLID
 - Clean and team-oriented code
 
-Contact
-```
-semedmytro@gmail.com
-```
 
 ## Languages and Tools:
 
